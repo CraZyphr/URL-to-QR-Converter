@@ -39,7 +39,7 @@ Let's say you want to convert the URL "https://example.com" into a URL-to-QR-Con
 
 ## License
 
-This project is licensed under the ISF License. See the LICENSE.txt file for details.
+This project is licensed under the ISC License. See the LICENSE.txt file for details.
 
 ## Contributing
 

@@ -32,8 +32,6 @@ Let's say you want to convert the URL "https://example.com" into a URL-to-QR-Con
 2. Enter the URL when prompted.
 3. The script will generate the QR code and display it in your Workspace along with a .txt file showing the link prompted to generate the QR.
 
-![QR Code for https://example.com](https://example.com/qrcode.png)
-
 ## Dependencies
 
 - [inquirer]([https://www.npmjs.com/package/qrcode](https://www.npmjs.com/package/inquirer)): A collection of common interactive command line user interfaces.

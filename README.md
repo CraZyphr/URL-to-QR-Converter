@@ -5,7 +5,7 @@ This Node.js project allows you to convert a URL into a QR code. Simply provide 
 
 1. Clone the repository to your local machine:
    bash
-   git clone https://github.com/yourusername/url-to-qr-converter.git
+   git clone https://github.com/CraZyphr/url-to-qr-converter.git
    
 
 2. Navigate to the project directory:

@@ -1,0 +1,12 @@
+{
+  "name": "url-to-qr-conveter",
+  "version": "1.0.0",
+  "description": "QR from URL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zyphr",
+  "license": "ISC"
+}

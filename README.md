@@ -34,7 +34,7 @@ Let's say you want to convert the URL "https://example.com" into a URL-to-QR-Con
 
 ## Dependencies
 
-- [inquirer]([https://www.npmjs.com/package/qrcode](https://www.npmjs.com/package/inquirer)): A collection of common interactive command line user interfaces.
+- [Inquirer.js]([https://www.npmjs.com/package/qrcode](https://www.npmjs.com/package/inquirer)): A collection of common interactive command line user interfaces.
 - [qr-image](https://www.npmjs.com/package/qr-image):  A popular Node.js library for generating QR codes.
 
 ## License
